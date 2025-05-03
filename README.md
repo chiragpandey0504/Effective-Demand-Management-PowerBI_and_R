@@ -13,7 +13,8 @@
 4. [Tools & Technologies](#tools--technologies)  
 5. [Methodology](#methodology)  
 6. [Key Findings](#key-findings)  
-7. [Contact](#contact)  
+7. [Conclusion](#conclusion)  
+8. [Contact](#contact)  
 
 ---
 
@@ -67,15 +68,21 @@ In a rapidly evolving e-commerce landscape, accurately forecasting demand is cri
 ---
 
 ## Key Findings
-- **Demographics:**  
-  - Age 55+ drives ~27% of sales in both USA & Brazil  
-  - Male customers account for ~53% of sales  
-- **Product Factors:**  
-  - Top 10 categories (e.g., Outwear, Jeans) → 68% of sales  
-  - Top 20 brands (e.g., Diesel, Calvin Klein) → 22% of sales  
-- **Model Performance:**  
-  - Linear Regression R² ≈ 0.97  
-  - **XGBoost** R² ≈ 0.99 (train) / 0.99 (test) — outperforms regression  
+- **Q1 (Demographics):**  
+  - Individuals aged **55 or over** significantly drive total sales in both the USA and Brazil.  
+  - Male consumers consistently account for a higher proportion of total sales compared to female consumers and are primary contributors across all age brackets in both countries.  
+  - The concentration of top-performing states and customers is in regions of **China** and the **USA**.
+
+- **Q2 (Products & Models):**  
+  - The **top 10 product categories** (e.g., Outwear and Coats, Jeans, Sweaters) contribute **68.21%** of total sales.  
+  - The **top 20 brands** (e.g., Diesel, Calvin Klein, The North Face) collectively contribute **22.04%** of total sales.  
+  - The **XGBoost** model outperforms Linear Regression with an **R² ≈ 0.98** on the test set.
+
+---
+
+## Conclusion
+- **Q1:** Customer demographic factors have a significant impact on e-commerce sales forecasting. Analyzing sales across age, gender, and geography unveils crucial consumer behavior trends, underscoring the necessity of targeting specific demographic segments and tailoring marketing strategies accordingly.  
+- **Q2:** Product categories and brand recognition likewise play a pivotal role. Combined with strong predictive performance from machine-learning models like XGBoost, these insights support more precise inventory and promotion planning to maximize revenue.
 
 ---
 
