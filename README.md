@@ -13,10 +13,7 @@
 4. [Tools & Technologies](#tools--technologies)  
 5. [Methodology](#methodology)  
 6. [Key Findings](#key-findings)  
-7. [Project Structure](#project-structure)  
-8. [Reproduction Steps](#reproduction-steps)  
-9. [Future Work](#future-work)  
-10. [Contact](#contact)  
+7. [Contact](#contact)  
 
 ---
 
