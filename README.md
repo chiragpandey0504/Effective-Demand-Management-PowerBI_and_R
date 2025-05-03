@@ -86,7 +86,7 @@ In a rapidly evolving e-commerce landscape, accurately forecasting demand is cri
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Chirag Pandey**  
 – Email: chiragpandey0504@gmail.com  
